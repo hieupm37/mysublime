@@ -3,8 +3,13 @@
 	[
 		"All Autocomplete",
 		"BracketHighlighter",
+		"CTags",
+		"Function Name Display",
 		"Indent XML",
+		"OpenGL Shading Language (GLSL)",
+		"PlainTasks",
 		"Sublimerge Pro",
-		"SVN"
+		"SVN",
+		"Theme - Spacegray"
 	]
 }
