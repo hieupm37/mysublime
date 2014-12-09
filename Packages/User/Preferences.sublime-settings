@@ -8,5 +8,7 @@
 	"rulers":
 	[
 		80
-	]
+	],
+	"spell_check": true,
+	"bold_folder_labels": true
 }
